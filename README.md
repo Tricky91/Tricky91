@@ -32,11 +32,13 @@ Ecco alcuni dei progetti che ho sviluppato durante il mio percorso formativo:
 
 ## 1. **Sviluppo dell'infrastruttura di sicurezza per un'azienda di medie dimensioni**  
 - **Descrizione**: Ho simulato la creazione della rete IT e dell'infrastruttura di sicurezza di un'azienda da più di 100 dipendenti 
-- **Tecnologie utilizzate**: Cisco Packet Tracer, VirtualBox, Python, Kali Linux, pfSense, BurpSuite 
+- **Tecnologie utilizzate**: Cisco Packet Tracer, VirtualBox, Python, Kali Linux, pfSense, BurpSuite
+- **Link**: https://github.com/Tricky91/EPICODE/tree/main/Progetto%201%20-%20Rete%20Theta
 
 ## 2. **Realizzazione di attacchi alle applicazioni WEB e black box**  
 - **Descrizione**: Simulazione di attacchi SQL injection e XSS a web application, simulazione di attacchi verso macchine virtuali Linux e Windows con pauload malevoli e backdoor, esercitazioni sull'hacking di macchine virtuali con tecniche "black box"
-- **Tecnologie utilizzate**: SQLmap, MSFconsole, Hydra, dirb, Metasploitable2, Kali Linux, Windows, C, Daian VM, Vancouver 2018 VM 
+- **Tecnologie utilizzate**: SQLmap, MSFconsole, Hydra, dirb, Metasploitable2, Kali Linux, Windows, C, Daian VM, Vancouver 2018 VM
+- **Link**: https://github.com/Tricky91/EPICODE/tree/main/Progetto%202%20-%20Ethical%20Hacking
 
 ## 3. **Conduzione di un progetto incentrato sull'analisi di malware e traffico di rete**  
 - **Descrizione**: Conduzione di un progetto incentrato sull'analisi e sulla sicurezza dei sistemi, con malware analysis, controllo del traffico di rete
