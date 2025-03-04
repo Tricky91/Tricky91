@@ -42,7 +42,7 @@ Ecco alcuni dei progetti che ho sviluppato durante il mio percorso formativo:
 
 ## 3. **Conduzione di un progetto incentrato sull'analisi di malware e traffico di rete**  
 - **Descrizione**: Conduzione di un progetto incentrato sull'analisi e sulla sicurezza dei sistemi, con malware analysis, controllo del traffico di rete
-- **Tecnologie utilizzate**: Wireshark, VirusTotal, CFF explorer
+- **Tecnologie utilizzate**: Wireshark, VirusTotal, CFF explorer, Any run, Hybrid analysis 
 
 ---
 
